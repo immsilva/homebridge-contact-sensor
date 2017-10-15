@@ -14,5 +14,5 @@ npm i -g homebridge-contact-sensor
 3) Rename the sample-config.json to config.json and integrate your switches in the accessories array. The pins
 of the Raspberry Pi require root rights to control them. Therefore you have to save your config file not
 in your users directory. Put it under `/root/.homebridge/config.json`.
-If you are already running homekit with other apps integrate the accessories switches into your config.json
+If you are already running homekit with other apps integrate the accessories into your config.json
 and move your config file to the path above.
