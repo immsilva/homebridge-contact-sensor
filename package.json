@@ -1,0 +1,36 @@
+{
+  "name": "homebridge-contact-sensor",
+  "version": "0.0.1",
+  "description": "A Homebridge plugin for a contact sensor via GPIO of a Raspberry Pi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": "git/issues"
+  },
+  "dependencies": {
+    "rpi-gpio": "^0.9.1"
+  },
+  "engines": {
+    "node": ">=6.9.2",
+    "homebridge": ">=0.2.0"
+  },
+  "keywords": [
+    "contact",
+    "sensor",
+    "raspberry",
+    "pi",
+    "siri",
+    "homebridge",
+    "homebridge-plugin",
+    "ios",
+    "homekit"
+  ],
+  "author": "Jaspar Mang",
+  "license": "ISC"
+}
