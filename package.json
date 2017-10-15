@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Killerameise/homebridge-contact-sensor.git"
   },
   "bugs": {
-    "url": "git/issues"
+    "url": "https://github.com/Killerameise/homebridge-contact-sensor/issues"
   },
   "dependencies": {
     "rpi-gpio": "^0.9.1"
