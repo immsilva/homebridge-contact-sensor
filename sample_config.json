@@ -13,7 +13,7 @@
     {
       "accessory": "ContactSensor",
       "name": "ContactSensor1",
-      "pin": 7
+      "pin": 2
     }
   ],
   "platforms": [
