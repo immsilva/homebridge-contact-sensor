@@ -1,6 +1,6 @@
 {
   "name": "homebridge-contact-sensor",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A Homebridge plugin for a contact sensor via GPIO of a Raspberry Pi.",
   "main": "index.js",
   "scripts": {
