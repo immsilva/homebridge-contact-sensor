@@ -4,6 +4,7 @@ This Homebridge plugin enables you to control a contact sensor switch.
 ## Setup
 
 1) Wire a contact senor to your Raspberry Pi.
+
 <img src="docs/circuit.png" width="300">
 
 2) Install this plugin
