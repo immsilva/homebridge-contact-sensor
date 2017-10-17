@@ -29,7 +29,8 @@
     "homebridge",
     "homebridge-plugin",
     "ios",
-    "homekit"
+    "homekit",
+    "gpio"
   ],
   "author": "Jaspar Mang",
   "license": "ISC"
