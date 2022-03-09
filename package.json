@@ -14,7 +14,7 @@
     "url": "https://github.com/Killerameise/homebridge-contact-sensor/issues"
   },
   "dependencies": {
-    "rpi-gpio": "^0.9.1"
+    "rpi-gpio": "^2.7.1"
   },
   "engines": {
     "node": ">=6.9.2",
